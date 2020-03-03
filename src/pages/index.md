@@ -1,21 +1,15 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Melania Moldovan
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Melania Moldovan
+subheading: Cabinet de psihologie
 mainpitch:
-  title: Why Kaldi
+  title: Bine ai venit pe pagina cabinetului meu!
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    ”Trăiește-și viața în așa fel încât ai fi dispus să îți repeți aceeași viață pentru eternitate” -Irvin Yalom 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Poate te-ai întrebat ce este mai exact psihoterapia. Psihoterapia este o modalitate de a ajuta oamenii care suferă de o varietate de dificultăți emoționale și mentale. Prin acest proces esti ajutat în a-ți elimina sau controla anumite simptome deranjante și îngrijorătoare, astfel încât să acționezi mai bine, să te vindeci și să își ridici calitatea vieții.
 intro:
   blurbs:
     - image: /img/coffee.png

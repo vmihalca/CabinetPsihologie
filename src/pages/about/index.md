@@ -1,19 +1,12 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: Despre mine
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Despre mine
+Alegerea de a deveni psiholog a fost rezultatul unui proces lung și personal de analiză interioară. Primele interese privind psihicul uman le-am avut din școala generală, întrebându-mă mereu de ce o persoană gândește în felul acela și de ce acționează într-un mod anume. 
+Interesul a pornit, evident, pe lângă dorința de a-mi înțelege și ajuta semenii, și dintr-un motiv egoist, de a mă cunoaște mai bine pe mine și pe cei dragi mie. Așa cum a spus și Cald Jung, ”Acela care privește în afară, visează; acela care privește înăuntru, se trezește.”
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Obstacolele emoționale întâmpinate de-a lungul vieții m-au testat și m-au împins către un proces lung de autoreflecție din care am ieșit îmbogățită cu resurse. Dorința mea a lucra cu oamenii și de-i ajuta în propriul proces de dezvoltare. Cred că fiecare avem o putere interioară de a ne ridica din propria cenușă, mai colorați sufletește și mai energici, asemeni unui Phoenix. Câteodată avem nevoie de o călăuză în acest proces, cineva cu care să ne putem privi adâncurile sumbre și să căutăm sensul de sub cenușă. Nu este un proces simplu, poate fi dureros pe parcurs, însă este unul fără doar și poate benefic.
+”Să nu devii stăpânul planului propriei vieți e ca și cum ți-ai lăsa propria existență sa fie un accident.” Irvin Yalon

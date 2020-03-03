@@ -1,14 +1,14 @@
 @import "~bulma/sass/utilities/initial-variables"
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap')
 
 // Config vars
-// Kaldi logo brand color: #FD461E
-$kaldi-red: #D64000
-$kaldi-red-invert: #fff
+$prime-red: #E93F33
+$black: #333333
+$light-blue: #c4c5dc
+$dark-blue: #757794
 
-$primary: $kaldi-red
-$primary-invert: $kaldi-red-invert
-$body-color: #333
-$black: #2b2523
+.section
+  padding: 0!important  
 
 .navbar .navbar-menu
   box-shadow:none !important
@@ -42,57 +42,126 @@ $black: #2b2523
   justify-content: center
   align-items: center
 
+.banner-wrapper
+  height: 400px  
+
 .full-width-image
-    width: 100vw
-    height: 400px
-    background-size: cover
-    background-position: bottom
-    display: flex
-    justify-content: center
-    align-items: center
+  width: 100vw
+  height: 400px
+  background-size: cover
+  background-position: bottom
+  display: flex
+  justify-content: flex-end
+  align-items: center
+
+.title-quote
+  position: relative
+  bottom: 80px
+  font-size: 1.4rem
+  color: white
+  text-align: center
+  h3
+    position: relative
+    z-index: 9
+    text-shadow: 2px 2px #191919
 
 .btn
-    display: inline-block
-    padding: 12px 16px 10px
-    font-size: 18px
-    font-size: 1rem
-    line-height: 1.25
-    background-color: #fff
-    border-radius: .25rem
-    text-decoration: none
-    font-weight: 700
-    color: #CC3700
-    text-align: center
-    -webkit-box-shadow: inset 0 0 0 2px #CC3700
-    box-shadow: inset 0 0 0 2px #f40
-    -webkit-transition: all .15s ease
-    transition: all .15s ease
+  display: inline-block
+  padding: 12px 16px 10px
+  font-size: 18px
+  font-size: 1rem
+  line-height: 1.25
+  border-radius: .25rem
+  text-decoration: none
+  font-weight: 700
+  color: $black
+  text-align: center
+  box-shadow: inset 0 0 0 2px $prime-red
+  transition: all .4s ease
 
 .margin-top-0
   margin-top: 0 !important
 
-.navbar-item .icon
-  color: $primary
-// Override for use of svg's from https://simpleicons.org/
-.icon svg
-  width: 1.5rem
-  height: 1.5rem
-  fill: currentColor
-.navbar-brand .navbar-item.logo
-  padding: 0 1rem
+nav.navbar
+  background: rgb(88,89,106)
+  background: linear-gradient(60deg, rgba(113,107,117,1) 0%, rgba(154,151,160,1) 10%, rgba(255,255,255,1) 89%)
+
+.navbar-brand .navbar-item img
+  max-height: 50px
+
+.navbar-start .navbar-item 
+  color: $black
+  transition: all .5s
+  &:hover
+    color: #e93f33!important
+
+.navbar-start .navbar-item:after 
+  position: absolute
+  bottom: 0
+  left: 0
+  right: 0
+  margin: auto
+  width: 0%
+  content: '.'
+  color: transparent
+  background: #e93f33
+  height: 5px
+  transition: all .5s  
+
+.navbar-start .navbar-item:hover:after
+  width: 100%;
+
+.activeNavItem
+  color: #e93f33!important
+
+.section.section--gradient
+  padding: 0 1.5rem
+  >.container
+    padding: 0 2rem
+    @media screen and ( min-width:1408px )
+      max-width: 1152px!important
+      
+
+.hsec-one
+  display: flex
+  justify-content: flex-end
+  img
+    position: relative
+    bottom: 73px
+
+.h2-home
+  max-width: 495px
+  font-family:  'Pacifico', ;
+  font-size: 1.8rem
+  position: relative
+  bottom: 150px
+  padding-left: 0.75rem
+
+.home-card-wrapp
+  display: flex
+  justify-content: space-between
+  @media( max-width:955px)
+    flex-wrap: wrap
+  .home-card
+    background-color: $light-blue
+    border: 2px solid $dark-blue
+    border-radius: 10px
+    margin: 5px
+    padding: 15px
+    width: 300px
+    text-align: center
+    h3
+      text-align: center
+    p 
+      text-align: justify
+      height: 120px
+
+.has-background
+  background-color: $light-blue
+
 footer.footer
   padding: 3rem 0rem 0rem
-  background-color: transparent
-
-//Menu overrides
-$menu-item-color: $white-ter
-$menu-item-hover-color: $black !important
-$menu-item-hover-background-color: $black
-$menu-item-active-color: $kaldi-red-invert
-$menu-item-active-background-color:	$kaldi-red-invert
-$menu-list-border-left: 1px solid $kaldi-red-invert
-$menu-label-color: $white-ter
-
+  background-color: $light-blue
 
 .menu-label
   font-size: 1em !important
@@ -100,6 +169,10 @@ $menu-label-color: $white-ter
 .menu-list
   list-style: none !important
   text-align: left
+  a:hover
+    background-color: $light-blue!important
+    color: #363636
+
 .social
   padding: 2em
 .social a
@@ -112,16 +185,181 @@ $menu-label-color: $white-ter
     vertical-align: middle
     display: inline
 
+
+
+// About page
+.about-section
+  .banner-about
+    height: 400px
+    width: 100%
+    background: url('../img/home-jumbotron-blur.jpg') no-repeat fixed
+    background-size: 100%
+
+.about-title
+  position: absolute
+  top: 200px
+  left: 11%
+  color: white
+  width: 300px
+  h2
+    font-family:  'Pacifico', ;
+    font-size: 2.1rem
+    text-shadow: 2px 2px #191919
+
+.about-header
+  height: 550px
+  width: 400px
+  box-shadow: 0px 0px 11px 1px rgba(0, 0, 0, 0.2)
+  position: relative
+  float: right
+  top: -315px
+  margin-left: 25px;
+  p 
+    padding: 20px
+    font-size: 1.2rem
+
+.about-column
+  position: relative
+  top: -30px
+  background: white
+  border-radius: 6px
+  box-shadow: 0px 0px 11px 1px rgba(0,0,0,0.45)
+
+.about-descript
+  p
+    text-align: justify
+
+.about-formare
+  margin-top: 90px
+
+//Services
+.serv-section
+  .banner-serv
+    height: 500px
+    width: 100%
+    background: url('../img/colton-duke.jpg') no-repeat fixed
+    background-size: 100%
+
+.serv-title
+  position: absolute
+  top: 200px
+  left: 11%
+  color: white
+  width: 300px
+  h2
+    font-family:  'Pacifico', ;
+    font-size: 2.1rem
+    text-shadow: 2px 2px #191919
+.serv-column
+  position: relative
+  top: -10px
+  background: white
+  border-radius: 6px
+  box-shadow: 0px 0px 11px 1px rgba(0,0,0,0.45)
+  margin-bottom: 50px
+
+.serv-ban
+  width: 500px
+  background-color: white
+  filter:blur(5px)
+  opacity: 0.7
+  position: absolute
+  top: -480px
+  right: 0
+  padding: 10px
+  color: black
+  box-shadow: 0px 0px 11px 1px rgba(0, 0, 0, 0.2)
+  strong
+    color: black
+  h3 
+    font-size: 1.2rem
+    font-weight: bold
+
+.terap
+  padding-top: 70px
+  div.line 
+    height: 2px
+    width: 290px
+    margin-left: 10px
+    margin-bottom: 50px
+    background-color: $prime-red
+  h2
+    font-size: 1.6rem
+    font-weight: bold
+    margin-top: 80px
+  h3
+    font-size: 1.2rem
+    font-weight: bold
+  p.presup
+    max-width: 500px
+  p 
+    padding: 0 20px
+    text-align: justify
+
+.psih-grup
+  img 
+    float: right
+    margin: 15px
+  .line
+    width: 270px!important
+  h2
+    margin-top: 50px
+
+.dezv-pers
+  img 
+    float: right
+    margin: 15px
+
 // blog roll
 .blog-list-item.is-featured
-  background-color: #d6400033;
+  background-color: #d6400033
 .blog-list-item header
-  display: flex;
-  margin-bottom: 1em;
+  display: flex
+  margin-bottom: 1em
 .blog-list-item .featured-thumbnail
-  flex-basis: 35%;
-  margin: 0 1.5em 0 0;
+  flex-basis: 35%
+  margin: 0 1.5em 0 0
 
+//Contact
+.conta-section
+  .banner-conta
+    height: 500px
+    width: 100%
+    background: url('../img/antoine-barres.jpg') no-repeat fixed
+    background-size: 100%
+
+.conta-title
+  position: relative
+  top: -60px
+  color: white
+  text-align: center
+  h2
+    font-family:  'Pacifico', ;
+    font-size: 2.1rem
+    text-shadow: 2px 2px #191919
+    background-color: $prime-red
+    display: inline-block
+    padding: 15px
+    box-shadow: 0px 0px 11px 1px rgba(0,0,0,0.45)
+    border-radius: 5px
+    margin-left: 15px
+.conta-column
+  position: relative
+  top: -10px
+  background: white
+  border-radius: 6px
+  box-shadow: 0px 0px 11px 1px rgba(0,0,0,0.45)
+  margin-bottom: 50px
+  .line
+    height: 2px
+    width: 150px
+    margin-left: 10px
+    margin-bottom: 50px
+    background-color: $prime-red
+  h2
+    font-size: 1.6rem
+    font-weight: bold
+    margin-top: 25px
 
 @import "~bulma"
 

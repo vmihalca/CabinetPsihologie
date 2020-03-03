@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import github from '../img/github-icon.svg'
-import logo from '../img/logo.svg'
+import logo from '../img/logo.png'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -42,7 +41,7 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
+              <img src={logo} style={{ width: '60px' }} />
             </Link>
             {/* Hamburger menu */}
             <div
@@ -60,33 +59,24 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/about">
-                About
+              <Link className="navbar-item" to="/">
+                  Acasa
               </Link>
-              <Link className="navbar-item" to="/products">
-                Products
+              <Link className="navbar-item" activeClassName="activeNavItem" to="/about">
+                Despre Mine
               </Link>
-              <Link className="navbar-item" to="/blog">
-                Blog
+              <Link className="navbar-item" activeClassName="activeNavItem" to="/services">
+                Servicii
               </Link>
-              <Link className="navbar-item" to="/contact">
+              <Link className="navbar-item" activeClassName="activeNavItem" to="/blog">
+                Articole
+              </Link>
+              {/* <Link className="navbar-item" activeClassName="activeNavItem" to="/prices">
+                Tarife
+              </Link> */}
+              <Link className="navbar-item" activeClassName="activeNavItem" to="/contacts">
                 Contact
               </Link>
-              <Link className="navbar-item" to="/contact/examples">
-                Form Examples
-              </Link>
-            </div>
-            <div className="navbar-end has-text-centered">
-              <a
-                className="navbar-item"
-                href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <span className="icon">
-                  <img src={github} alt="Github" />
-                </span>
-              </a>
             </div>
           </div>
         </div>

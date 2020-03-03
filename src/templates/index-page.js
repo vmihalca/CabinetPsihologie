@@ -1,9 +1,11 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
-
+import hpic1 from '../img/boat.png'
+import hcard1 from '../img/terap_indiv.png'
+import hcard2 from '../img/Terap_grup.png'
+import hcard3 from '../img/Dezv_pers.png'
 import Layout from '../components/Layout'
-import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
 
 export const IndexPageTemplate = ({
@@ -16,98 +18,92 @@ export const IndexPageTemplate = ({
   intro,
 }) => (
   <div>
-    <div
-      className="full-width-image margin-top-0"
-      style={{
-        backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-        })`,
-        backgroundPosition: `top left`,
-        backgroundAttachment: `fixed`,
-      }}
-    >
+    <div className="banner-wrapper">
       <div
+        className="full-width-image margin-top-0"
         style={{
-          display: 'flex',
-          height: '150px',
-          lineHeight: '1',
-          justifyContent: 'space-around',
-          alignItems: 'left',
-          flexDirection: 'column',
+          backgroundImage: `url(${
+            !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+          })`,
+          backgroundAttachment: `fixed`
         }}
       >
-        <h1
-          className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
+        <div
           style={{
-            boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
-            color: 'white',
-            lineHeight: '1',
-            padding: '0.25em',
+            display: 'flex',
+            flexDirection: 'column',
+            marginRight: '15%'
           }}
         >
-          {title}
-        </h1>
-        <h3
-          className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
-          style={{
-            boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
-            color: 'white',
-            lineHeight: '1',
-            padding: '0.25em',
-          }}
-        >
-          {subheading}
-        </h3>
+          <h1
+            className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
+            style={{
+              lineHeight: '1'
+            }}
+          >
+            {title}
+          </h1>
+          <h3
+            className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
+            style={{
+              backgroundColor: 'rgb(255, 68, 0)',
+              color: 'white',
+              lineHeight: '1',
+              padding: '0.25em',
+            }}
+          >
+            {subheading}
+          </h3>
+        </div>
       </div>
+      <div className="title-quote"><h3>”Trăiește-ți viața în așa fel încât ai fi dispus să îți repeți aceeași viață pentru eternitate” -Irvin Yalom</h3> </div>
     </div>
     <section className="section section--gradient">
       <div className="container">
+        <div className="hsec-one">
+          <img src={hpic1} style={{ width: '450px' }} />
+        </div>
         <div className="section">
-          <div className="columns">
-            <div className="column is-10 is-offset-1">
-              <div className="content">
-                <div className="content">
-                  <div className="tile">
-                    <h1 className="title">{mainpitch.title}</h1>
+          <h2 className="h2-home">{mainpitch.title}</h2>
+            <div className="content">
+              <div className="column is-12">
+                <div className="home-card-wrapp">
+                  <div className="home-card">
+                  <img src={hcard1} alt="Terapie individuala" style={{ width: '220px', height:'167px' }} />
+                  <h3>Terapie individuala</h3>
+                  <p>Psihoterpia individuală presupune întâlniri la care vei participa doar tu și psihoterapeutul, într-un spațiu plăcut și sigur. Tot ceea ce se discută rămâne confidential.</p>
+                  <Link className="btn" to="/services">
+                    Vezi mai mult
+                  </Link>
                   </div>
-                  <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
+                  <div className="home-card">
+                  <img src={hcard3} alt="Dezvoltare personala" style={{ width: '220px', height:'167px' }} />
+                  <h3>Dezvoltare personala</h3>
+                  <p>Scopul este de a te susține în procesul de auto-explorare și dezvoltare a unor abilități specifice, pentru ca, în final, să îți îndeplinești propriul potențial. </p>
+                  <Link className="btn" to="/services">
+                    Vezi mai mult
+                  </Link>
+                  </div>
+                  <div className="home-card">
+                  <img src={hcard2} alt="Terapie de grup" style={{ width: '220px', height:'167px' }} />
+                  <h3>Terapie de grup</h3>
+                  <p>În psihoterapia de grup ne vom întâlni în grup de 6 și 10  persoane și vom discuta despre o anumită problemă. </p>
+                  <Link className="btn" to="/services">
+                    Vezi mai mult
+                  </Link>
                   </div>
                 </div>
-                <div className="columns">
-                  <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
-                      {heading}
-                    </h3>
-                    <p>{description}</p>
-                  </div>
-                </div>
-                <Features gridItems={intro.blurbs} />
-                <div className="columns">
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/products">
-                      See all products
-                    </Link>
-                  </div>
-                </div>
-                <div className="column is-12">
-                  <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
-                  </h3>
-                  <BlogRoll />
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/blog">
-                      Read more
-                    </Link>
-                  </div>
+                <h3 className="has-text-weight-semibold is-size-2">
+                  Articole Recente
+                </h3>
+                <BlogRoll />
+                <div className="column is-12 has-text-centered">
+                  <Link className="btn" to="/blog">
+                    Toate articolele
+                  </Link>
                 </div>
               </div>
             </div>
-          </div>
         </div>
       </div>
     </section>
