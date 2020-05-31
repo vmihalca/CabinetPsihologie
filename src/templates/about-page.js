@@ -20,7 +20,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
           <div className="column is-10 is-offset-1 about-column">
             <div className="section">
               <div className="about-header">
-                <img src={mel} alt="Melania Moldovan" style={{ width: '400px', height:'300px' }} />
+                <img src={mel} alt="Melania Moldovan" style={{ width: '400px', height:'500px' }} />
                 <p>Eu sunt Melania Moldovan, psiholog clinician și psihoteraput cognitiv-comportamental, iar momentan urmez și formarea în psihoterapie pozitivă.</p>
                 <img src={sign} alt="Melania Moldovan" style={{ width: '200px', height:'70px', float:'right' }} />
               </div>
@@ -28,6 +28,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
               <div className="content about-formare">
                 <h3>Formare profesională</h3>
                 <ul>
+                  <li>29 Februarie-1 Martie 2020 ”Working with traumatic memories in patients with complex trauma and dissociation”, Timișoara, România.</li>
                   <li>26 Noiembrie 2019 “Master Class: Schema Therapy pentru cazurile dificile”, București, România;</li>
                   <li>25 februarie- 26 februarie 2019 ”Restructurarea Self-ului: angoasă sau provocare”, Cluj-Napoca, România.</li>
                   <li>Noiembrie 2017 ”Emoția extravagantă. Lucrul cu emoțiile profunde în terapie”, Cluj-Napoca, România</li>
@@ -46,7 +47,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                 </ul>
                 <h3>Workshopuri facilitate/evenimente</h3>
                 <ul>
-                  <li>Octombrie 2019-Discuții împreună cu psiholog Paula Nuțaș la lansarea cărții „Sparge Tiparele: Cum să-ți recapeți libertatea de a fi tu însuți prin terapia schemelor”- Gitta Jacobs, Bookstory, Cluj-Napoca, Cluj.</li>
+                  <li>31 Octombrie 2019- Speaker invitat, împreună cu psihoterapeut Paula Nuțaș la lansarea cărții „Sparge Tiparele: Cum să-ți recapeți libertatea de a fi tu însuți prin terapia schemelor”- Gitta Jacobs, Bookstory, Cluj-Napoca, Cluj.</li>
                   <li>Mai 2019-Workshopuri facilitate în cadrul Seminarului Bridge for Mental Health, Măguri-Răcătău, Cluj.</li>
                   <li>Aprilie 2019-Discuție la EBS radio despre Burnout împreună cu psiholog Bogdan Ovidiu Talpoș.</li>
                   <li>Iulie 2018- Breaking the Bad Workshop, Organizația Minte Forte</li>

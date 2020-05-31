@@ -93,6 +93,11 @@ export const IndexPageTemplate = ({
                   </Link>
                   </div>
                 </div>
+                <div className="call-to-action">
+                  <Link className="btn" to="/contacts">
+                  Programează o <span>intalnire</span> acum!
+                  </Link>
+                </div>
                 <h3 className="has-text-weight-semibold is-size-2">
                   Articole Recente
                 </h3>

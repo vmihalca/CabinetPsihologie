@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: Despre anxietate
-date: 2020-02-04T15:04:10.000Z
+title: Un ocean numit emoții. Ce sunt emoțiile și cum le putem ”naviga”?
+date: 2020-05-04T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/chemex.jpg
 description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
