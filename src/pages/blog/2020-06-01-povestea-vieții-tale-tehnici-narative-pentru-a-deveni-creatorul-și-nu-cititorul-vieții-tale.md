@@ -1,67 +1,23 @@
 ---
 templateKey: blog-post
-title: >-
-  Povestea vieții tale- tehnici narative pentru a deveni creatorul și nu
-  cititorul vieții tale
+title: Singurătate în carantină
 date: 2020-06-01T17:15:41.798Z
-description: Tehnici narative pentru a deveni creatorul și nu cititorul vieții tale
+description: Singurătate în carantină
 featuredpost: true
 featuredimage: /img/Art. 2.jpg
 tags:
   - Terapie Cluj-Napoca
 ---
-Ești blocat în izolare sau ai luat decizia de rămâne în casă pentru a reduce pandemia? Cum îțiconstruiești narațiunea vieții în această perioadă? Ești agent activ sau ești victima schimbărilor exterioare? Poate răspunzi diferit la aceaste întrebări în funcție de persoana care te întreabă, starea ta de spirit, sau etapa izolării în care te afli.
+“We human beings are social beings. We come into the world as the result of others’ actions. We survive here in dependence on others. Whether we like it or not, there is hardly a moment of our lives when we do not benefit from others’ activities. For this reason, it is hardly surprising that most of our happiness arises in the context of our relationships with others.” Dalai Lama XIV.
 
-Terapia narativă ne spune că aceste întrebări sunt importante, căci o persoană poate lucra pe poveștile pe care aceasta le spune despre viața sa cu scopul de a crea niște schimbări pozitive. Poveștile pot fi ”unelte” în relațiile cu ceilalți, le folosim pentru a transmite mai departe informații, pentru a stabili o conexiune cu celălalt prin împărtășirea experiențelor, și e un mod de a ne organiza gândurile și sentimentele. Prin poveștile pe care le spunem despre noi reușim să creăm o structură coerentă în gândurile noastre, ne descoperim valorile și sensul acțiunilor, deci, în consecință, ne creem o identitate. Poveștile pe care (ni) le spunem despre noi ne modelează identitatea și, din păcate, adesea ne fixăm pe o problemă, sau o temă și ne construim întreaga identitate în jurul acesteia. Terapia narativă ne ajută să vedem aceste probleme ca fiind externe nouă, și dacă schimbăm modul în care ne povestim viața, schimbăm modul în care ne raportăm la problemele noastre.
+Ne putem oare descrie fără să facem o referire explicită sau implicită la o altă persoană? Suntem copiii, părinții sau partenerul cuiva, suntem buni sau darnici față de cineva, și tot așa. Oamenii sunt ființe sociale, și așa cum studiile ne arată, creierul nostru se dezvoltă datorită experiențelor pe care le avem cu ceilalți. De exemplu, evoluția ne-a pregătit creierul cu niște ”programe” biologice care ajută la formarea relației de atașament între copil și părinte, și în cercul protector al părintelui, copilul se poate dezvolta sănătos, și poate explora lumea înconjurătoare. Pe parcursul vieții, experiențele noastre sociale ne vor modela, la rândul lor, arhitectura creierului (Siegel, 2012), și identitatea noastră se va forma pe măsură ce explorăm diversele grupuri sociale din care vom face parte (Erikson, 1950, 1968).
 
-Tu ce povești spui despre tine ție și/sau celorlalți?
+Bun bun, oamenii sunt importanți. Și acum?
 
-Terapia narativă urmărește câteva principii importante:
+Acum ne-am trezit după uși închise, măști protectoare și o distanță de 2 m între noi. Cei norocoși s-au izolat cu familia, partenerii, dar mulți dintre noi ne-am izolat singuri. Întâlnirile de grup au devenit întâlniri de zoom, unde putem exercita un control mai mare în comunicarea cu ceilalți, dar cu ce cost? Observăm că nu mai facem lucrurile pe care le făceam înainte, că nu avem energie să ne schimbăm din pijamale în haine de casă, darămite, haine de lucru, că ne este greu să ne facem un plan de muncă pe care să îl respectăm.
 
-* Realitatea este construită social, ceea ce înseamnă că interacțiunile și dialogul pe care îl avem cu ceilalți impactează modul în care trăim realitatea.
-* Realitatea este influențată de și comunicată prin limbaj, ceea ce sugerează că oamenii care vorbesc limbi diferite pot avea interpretări diferite privind aceeași experiență.
-* O narațiune ce poate fi înțeleasă ne ajută să ne organizăm și menținem realitatea. În alte cuvinte, poveștile și narațiunile ne ajută să facem un sens din experiențele noastre.
-* Nu există o realitate obiectivă sau un adevăr absolut, ce e adevărat pentru o persoană, nu este adevărat pentru o altă persoană, sau chiar pentru noi înșine în alt moment al vieții.
+În această stare de dezolare și lipsă de motivație ne îndreptăm atenția către interior. Cine sunt și ce vreau să fac atunci când nimeni nu este în jur să îmi valideze comportamentul, să mi-l aprobe, să mi-l reflecteze? Cine suntem fără oglindirea celuilalt?Acestea sunt întrebările care ni le adresăm după câteva săptămâni de sinigurătate în carantină.
 
-Terapia narativă ne spune că nu există un adevăr obiectiv- adevărul este făurit de fiecare din noi, în funcție de normele sociale și ideile pe care le avem. Dacă nu există un adevăr universal, atunci oamenii trebuie să creeze adevăruri ce îi vor ajută să susțină o realitate care îi servește lor și altora.
+Am început să mă gândesc la fereastra lui Johari, un instrument simplu și util regăsit în psihologia practică pentru ilustrarea și îmbunătățirea conştientizării propriei persoane. Acest instrument ne spune că sunt informații ce ceilalți le percep despre noi, dar noi nu știm. Și astfel am făcut un mic joc. Am ieșit din pielea mea și m-am transpus în vizitatorul casei mele, și am început să descriu persoana pe care am întâlnit-o în casă. Descrierea nu îmi făcuse mare plăcere, căci proprietara a lăsat vase în chiuvetă, gunoiul nearuncat, a folosit prea mult contul Netflix, a lăsat exercițiile fizice în parcul unde nu a mai ieșit. Mi-am privit propria inerție cu ochiul observator. Și acest ochi observator mi-a evaluat comportamentul, starea și direcția. Exercițiul m-a făcut să îmi dau seama că doream o altă direcție pentru mine. Nu voiam să învăț ceva complex, ca o limbă sau o abilitate nouă, ci mai degrabă să învăț să am grijă de mine atunci când structura dată de societate devine neclară.Din acel moment organizarea timpului a căpătat un nou sens- să mă ajut, cu grijă de sine și compasiune, să mențin capul la suprafață în această perioadă incertă. Asta a însemnat că mi-am construit un plan de muncă mai puțin încărcat, cu activități focusate pe mediul în care mă aflu și pe necesitățile imediate. Mi-am programat multe întâlniri online cu famila și prietenii și am încercat cât am putut de mult să mă întâlnesc cu alte persoane față în față, respectând distanța socială, în orele permise de lege. Mai mult, timpul în singurătate m-a învățat să-i apreciez pe cei dragi, și a devenit mai clar ce doresc de fapt dintr-o relație, fie ea de prietenie, sau intimă, și cum aș putea să cer în viitor aceste lucruri. Oglinzile din casă s-au transformat în oglinzi de reflecție interioară și au adus la lumină multe întrebări legate de cât sunt de pregătită și dispusă să aduc eu, la rândul meu, în relație.
 
-Poveștile sunt centrale în modul în care oamenii își înțeleg și își evaluează viețile. Avem povești despre carieră, despre relații, despre slăbiciunile noastre, despre succesele noastre, etc. În fiecare zi adăugăm alte evenimente în povestea noastră, și semnificația atașată fiecărui eveniment va fi diferită în funcție de contextul vieții noastre. Unele povești vor deveni dominante în viața noastră și unele pot fi problematice, din cauza modului în care noi am interpretat evenimentele prin care am trecut. De exemplu, o persoană își poate forma povestea vieții sale în jurul temei că este o persoană respingătoare. Probabil că îşi poate aminti mai multe dăți când cineva a respins-o, și le alege preferențial pentru povestea vieții ei, le colectează pentru a-și susține povestea. Dacă povestea devine rigidă, persoana aceasta va exclude alte evenimente viitoare care nu corespund cu această narațiune, cum ar fi momente când cineva dorește să petreacă timp cu ea/ea. Ne putem gândi că aceastp narațiune va impacta viața persoanei într-un mod nefavorabil în viitor.
-
-Suntem mai sănătoși dacă reușim să ne construim o poveste alternativă care se potrivește mai bine cu ceea ce ne dorim cu adevărat de la viață- de a ne înțelege mai bine, de a descoperi oportunități de creștere și dezvoltare, de a găsi sensul.
-
-**Tehnici narative**
-
-În continuare voi descrie câteva tehnici uzuale în terapia narativă care te vor ajuta să preiei controlul asupra propriei vieți. Poate unele dintre ele le folosiți deja uzual, poate pentru altele veți depune efort și timp în aplicarea lor.
-
-* **Construiți/ povestiți narațiunea vieții voastre**
-
-Dacă ești rugat să îți relatezi viața cuiva străin, cum ar suna? Care teme ar fi principale? Sunt anumite teme care se repetă? Un patern care te impactează negativ? În terapie, psihoterapeutul ne susține în acest proces, și ne ajută, prin întrebări să vedem repetitivitatea unor probleme. Puteți încerca, însă, acest lucru și acasă. Spunându-ți povestea, poți vedea ce experiențe au fost de interes pentru tine, ce sens ai extras din aceste experiențe, deci ce sens ți-ai dat ție de-a lungul timpului. Pe masură ce iți pui povestea cap la cap, devii observatorul vietii țale și poți vedea problema repetitivă din viața ta.
-
-* Ia o foaie de hârtie și scrie titlul cărții care este viața ta. Poate e simplu, ”Povestea de viață a Anei”, sau ceva mai reflexiv asupra temelor pe care le observi în viața ta, ca de exemplu, ”Ana: Povestea unei fete perseverente”.
-* Scrie un titlu pentru cel puțin 7 capitole din viața ta, fiecare reprezentând o etapă sau un eveniment din viața ta. La fiecare capitol, scrie o propoziție care sumarizează capitolul. De exemplu, titlul capitolului poate fi ”Durere în relațiile de prietenie” și descrierea ”În adolescență mi-a fost dificil să îmi consolidez prietenii de lungă durată și mereu m-am simțit respins.”
-* La finalizarea capitolelor adaugă o descriere a vieții tale din viitor. Cum va arăta aceasta în viitor? Unde vei merge? Ce vei fi?
-* La final, adaugă descrierile capitolelor pentru a construi o poveste comprehensivă a vieții tale.
-
-Acest exercițiu te ajută să îți organizezi gândurile și credințele despre viața ta și să construiești o poveste coerentă care are sens pentru tine. Nu trebuie să intri în detalii sau să te focusezi pe anumite amintiri specifice ci să îți organizezi trecutul, care te-a modelat în persoana din prezent, dar care nu trebuie să îți determine viitorul.
-
-
-
-* **Tehnica de externalizare**
-
-Aș dori să te gândești la o problemă cu care te confrunți (de exemplu, nerespectarea unui program de lucru). Și acum aș dori să îl exprimi în două feluri diferite, prima dată ca parte din identitatea/caracterul tău (eu sunt dezordonat/ă) iar apoi sub forma unui comportament în care te angajezi (eu mă angajez în alte acțiuni care nu sunt trecute în program). Vezi vreo diferență? În care variantă simți că ești capabil/ă să faci o schimbare? Tu nu ești problema, ești creatorul propriei vieți, și îți scrii povestea pe parcurs. Bineînțeles că ai dificultăți cu diferite probleme, dar nu ești problema ta. Procesul de externalizare a problemelor ne ajută să le vedem ca parte din poveste, dar nu ca parte din identitatea noastră. Externalizarea ne ajută să vedem problemele mai obiectiv, și atunci când creem o distanță între noi și problemă, vedem că este posibilă schimbarea și că suntem în control și putem să ne vindecăm.
-
-Această tehnică poate avea impact mare asupra identității noastre și încrederii în noi înșine. Ideea de bază a acestei tehnici este că e mult mai ușor să schimbăm un comportament decât o caracteristică de bază a personalității noastre.
-
-* **Deconstrucția**
-
-Adesea ne putem simți compleșiți de problema pe care o avem, și spargerea acesteia în bucăți mai mici ne poate ajuta să extragem sensul ei și să înțelegem imaginea de ansamblu. Problema nu mai este una generalizată de-a lungul vieții noastre, ci devine specifică, și astfel putem înțelege baza problemei, devenind mai ușor de abordat. De exemplu, dacă spunem că nu reușim să facem nimic în viața asta, putem să ne oprim o secundă, să tragem aer în piept și să ne întrebăm exact la ce ne referim, în ce situații simțim aceste lucruri, etc. Astfel, putem afla că problema constă în faptul că nu ne descurcăm cu lucrurile practice în viața de zi cu zi, rădăcina problemei fiind lipsa unor abilități practice față de care putem construi un plan de dezvoltare personală. În acest proces descoperim valorile importante pentru noi.
-
-
-
-* **Rezultatul alternativ**
-
-Cum ne putem schimba narațiunea vieții astfel încât să obținem un sens și o identitate funcțională și pozitivă? Povestea vieții noastre este asemenea unei povești din carte, și putem dezvolta mai multe interpretări asupra vieții noastre, putem să ne focusăm pe alte aspecte alte vieții decât ne-am focusat până acum, alte puncte din poveste devenind de interes. Ține minte, nu ești victima sorții, ci ai posibilitatea de a decide schimbarea narațiunii.
-
-Gândește-te la o problemă cu care te confrunți. Încearcă să o reimaginezi dintr-o altă perspectivă. Ce e o problemă într-o poveste, poate să fie nesemnificativă în alta. De exemplu, eșecul unui interviu pentru un loc de muncă poate să îți susțină narațiunea vieții că nu ești bun de nimic, sau poate reprezenta o etapă în care te poți dezvolta și crește.
-
-Cuvintele pe care le folosim ne influențează considerabil viața și modul în care luăm deciziile. Devin-o expert în propria voastră viață și trăiește o viață bazată pe valorile tale!
+Să fi singur în izolare nu este plăcut, însă e un moment în care zgomotele obișnuite, ale orașului, ale colegilor, oamenilor care îi întâlnești pe drum, magazine, ș.a.m.d. se reduc la tăcere și poți auzi mai clar vocea interioară. Carantina a deschis un capitol nou în viața fiecăruia dintre noi, și stă în controlul nostru ce titlu dăm acestui capitol. Ce spuneți de ”Reconectare interioară”?
