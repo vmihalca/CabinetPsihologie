@@ -4,7 +4,7 @@ title: Singurătate în carantină
 date: 2020-06-01T17:15:41.798Z
 description: Singurătate în carantină
 featuredpost: true
-featuredimage: /img/Art. 2.jpg
+featuredimage: /img/Art 3.jpg
 tags:
   - Terapie Cluj-Napoca
 ---
