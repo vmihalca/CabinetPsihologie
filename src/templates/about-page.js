@@ -20,7 +20,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
           <div className="column is-10 is-offset-1 about-column">
             <div className="section">
               <div className="about-header">
-                <img src={mel} alt="Melania Moldovan" style={{ width: '400px', height:'500px' }} />
+                <img src={mel} alt="Melania Moldovan" style={{ width: '400px' }} />
                 <p>Eu sunt Melania Moldovan, psiholog clinician și psihoteraput cognitiv-comportamental, iar momentan urmez și formarea în psihoterapie pozitivă.</p>
                 <img src={sign} alt="Melania Moldovan" style={{ width: '200px', height:'70px', float:'right' }} />
               </div>
