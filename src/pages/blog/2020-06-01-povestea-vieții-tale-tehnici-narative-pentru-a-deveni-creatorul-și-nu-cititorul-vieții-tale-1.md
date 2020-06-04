@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
 title: >-
-  Povestea vieții tale- tehnici narative pentru a deveni creatorul și nu
+  Povestea vieții tale - tehnici narative pentru a deveni creatorul și nu
   cititorul vieții tale
 date: 2020-06-01T17:26:07.222Z
-description: Tehnici narative pentru a deveni creatorul și nu cititorul vieții tale
+description: .
 featuredpost: true
 featuredimage: /img/Art. 2.jpg
 tags:
