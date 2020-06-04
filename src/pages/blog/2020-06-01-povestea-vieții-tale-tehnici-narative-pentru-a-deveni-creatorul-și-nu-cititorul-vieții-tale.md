@@ -8,6 +8,8 @@ featuredimage: /img/Art 3.jpg
 tags:
   - Terapie Cluj-Napoca
 ---
+![cabinet psihologie cluj](/img/Art 3.jpg "Singurătate în carantină")
+
 “We human beings are social beings. We come into the world as the result of others’ actions. We survive here in dependence on others. Whether we like it or not, there is hardly a moment of our lives when we do not benefit from others’ activities. For this reason, it is hardly surprising that most of our happiness arises in the context of our relationships with others.” Dalai Lama XIV.
 
 Ne putem oare descrie fără să facem o referire explicită sau implicită la o altă persoană? Suntem copiii, părinții sau partenerul cuiva, suntem buni sau darnici față de cineva, și tot așa. Oamenii sunt ființe sociale, și așa cum studiile ne arată, creierul nostru se dezvoltă datorită experiențelor pe care le avem cu ceilalți. De exemplu, evoluția ne-a pregătit creierul cu niște ”programe” biologice care ajută la formarea relației de atașament între copil și părinte, și în cercul protector al părintelui, copilul se poate dezvolta sănătos, și poate explora lumea înconjurătoare. Pe parcursul vieții, experiențele noastre sociale ne vor modela, la rândul lor, arhitectura creierului (Siegel, 2012), și identitatea noastră se va forma pe măsură ce explorăm diversele grupuri sociale din care vom face parte (Erikson, 1950, 1968).
