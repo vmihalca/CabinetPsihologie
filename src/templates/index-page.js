@@ -72,7 +72,7 @@ export const IndexPageTemplate = ({
                   <img src={hcard1} alt="Terapie individuala" style={{ width: '220px', height:'167px' }} />
                   <h3>Terapie individuala</h3>
                   <p>Psihoterpia individuală presupune întâlniri la care vei participa doar tu și psihoterapeutul, într-un spațiu plăcut și sigur. Tot ceea ce se discută rămâne confidential.</p>
-                  <Link className="btn" to="/services">
+                  <Link className="btn" to="/services/#psih-indiv">
                     Vezi mai mult
                   </Link>
                   </div>
@@ -80,7 +80,7 @@ export const IndexPageTemplate = ({
                   <img src={hcard3} alt="Dezvoltare personala" style={{ width: '220px', height:'167px' }} />
                   <h3>Dezvoltare personala</h3>
                   <p>Scopul este de a te susține în procesul de auto-explorare și dezvoltare a unor abilități specifice, pentru ca, în final, să îți îndeplinești propriul potențial. </p>
-                  <Link className="btn" to="/services">
+                  <Link className="btn" to="/services/#dezv-pers">
                     Vezi mai mult
                   </Link>
                   </div>
@@ -88,7 +88,7 @@ export const IndexPageTemplate = ({
                   <img src={hcard2} alt="Terapie de grup" style={{ width: '220px', height:'167px' }} />
                   <h3>Terapie de grup</h3>
                   <p>În psihoterapia de grup ne vom întâlni în grup de 6 și 10  persoane și vom discuta despre o anumită problemă. </p>
-                  <Link className="btn" to="/services">
+                  <Link className="btn" to="/services/#psih-grup">
                     Vezi mai mult
                   </Link>
                   </div>
@@ -176,13 +176,6 @@ export const pageQuery = graphql`
         description
         intro {
           blurbs {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
             text
           }
           heading

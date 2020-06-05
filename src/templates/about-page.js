@@ -2,7 +2,6 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import mel from '../img/mel.jpg'
-import sign from '../img/signature.png'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
@@ -22,7 +21,6 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
               <div className="about-header">
                 <img src={mel} alt="Melania Moldovan" style={{ width: '400px' }} />
                 <p>Eu sunt Melania Moldovan, psiholog clinician și psihoteraput cognitiv-comportamental, iar momentan urmez și formarea în psihoterapie pozitivă.</p>
-                <img src={sign} alt="Melania Moldovan" style={{ width: '200px', height:'70px', float:'right' }} />
               </div>
               <PageContent className="content about-descript" content={content} />
               <div className="content about-formare">

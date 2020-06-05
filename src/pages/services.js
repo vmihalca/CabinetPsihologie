@@ -27,7 +27,7 @@ const ServicesPage = () => {
                                 <br/>
                                 <p><strong>Psihoterapia </strong>este similară cu consilierea, în ceea ce privește asigurarea unui mediu sigur pentru tine în a-ți împărtăși gândurile și îngrijorările, pentru a-ți gestiona dificultățile emoționale și paternurilor problematice de comportament. Totuși, abordarea este diferită în sensul în care psihoterapeutul va aborda lucrurile mult mai în profunzime. Psihoterapeutul se va focusa asupra emoțiilor și experiențelor trăite pe parcursul dezvoltării tale, fie ca și copil sau adult tânăr-  cât și asupra simptomelor și problemelor din prezent, pentru a înțelege cum aceste experiențe te-au mulat în persoana care ești astăzi. Din acest motiv psihoterapie este de obicei mai lungă comparativ cu consilierea și se va ocupa de condiții mentale mai complexe (depresie, tulburare de anxietate post-traumatică, etc.).</p>
                             </div>
-                            <div className="terap psih-indiv">
+                            <div id="psih-indiv" className="terap">
                                 <img src={hcard1} alt="Terapie individuala" style={{ width: '300px' }} />
                                 <h2>Psihoterapie individuală</h2>
                                 <div className="line"></div>
@@ -44,7 +44,7 @@ const ServicesPage = () => {
                                 <h3>Ce fel probleme tratează psihoterapia individuală?</h3>
                                 <p>Psihoterapia poate ajuta într-o varietate largă de probleme, de la cele considerate mai ușoare, până la cele severe. Ne referim la dificultățile de a face față responsabilităților vieții, cât și impactului unei trauma, cum ar fi o problemă medicală sau pierderea unei persoane dragi. Dar psihoterapia se adresează și unor tulburări mentale specifice, cum ar fi depresia și anxietatea. </p>
                             </div>
-                            <div className="content terap psih-grup">
+                            <div id="psih-grup" className="content terap">
                                 <img src={hcard2} alt="Terapie de grup" style={{ width: '350px' }} />
                                 <h2>Psihoterapie de grup</h2>
                                 <div className="line"></div>
@@ -59,7 +59,7 @@ const ServicesPage = () => {
                                     <li>Probleme medicale</li>
                                 </ul>
                             </div>
-                            <div className="content terap dezv-pers">
+                            <div id="dezv-pers" className="content terap">
                                 <img src={hcard3} alt="Terapie individuala" style={{ width: '350px' }} />
                                 <h2>Dezvoltare personală</h2>
                                 <div className="line"></div>
