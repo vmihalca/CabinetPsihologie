@@ -28,6 +28,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
               <div className="content about-formare">
                 <h3>Formare profesională</h3>
                 <ul>
+                  <li>29 Mai 2020  Workshop  online "Psihoterapia Pozitiva in vreme de pandemie" , România.</li>
                   <li>29 Februarie-1 Martie 2020 ”Working with traumatic memories in patients with complex trauma and dissociation”, Timișoara, România.</li>
                   <li>26 Noiembrie 2019 “Master Class: Schema Therapy pentru cazurile dificile”, București, România;</li>
                   <li>25 februarie- 26 februarie 2019 ”Restructurarea Self-ului: angoasă sau provocare”, Cluj-Napoca, România.</li>
@@ -36,21 +37,22 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                   <br/>
                   <li>2019-prezent: Formare Psihoterapie Pozitivă, Asociația de Psihoterapie Pozitivă (APP), Cluj-Napoca, Cluj.</li>
                   <li>2016–prezent: Doctorand în Psihologie, Facultatea de Psihologie și Științe ale Educației, Universitatea Babeș Bolyai, Cluj-Napoca;</li>
+                  <li>2016–2019: Formare Psiholog clinician și psihoterapeut, în practică privată – supervizare finalizată sub coordonarea Prof. Univ. Dr. Aurora Szentagotai-Tătar și Psih. Gabriela Hum;</li>
                   <li>2014–216: Master în Psihologie Clinică, Consiliere Psihologică și Psihoterapie, Facultatea de Psihologie și Științe ale Educației, Universitatea Babeș Bolyai, Cluj-Napoca;</li>
                   <li>2011–2014: Licență în Psihologie, Facultatea de Psihologie și Științe ale Educației, Universitatea Babeș Bolyai, Cluj-Napoca; </li>
                 </ul>
                 <h3>Locuri de muncă</h3>
                 <ul>
-                  <li>2019-prezent: coordinator Centrul Minții în cadrul Organizației Minte Forte</li>
+                  <li>2019-prezent: coordonator Centrul Minții în cadrul Organizației Minte Forte.</li>
                   <li>2017-prezent: Psihoterapeut Organizația Minte Forte</li>
                   <li>2016-prezent: Psihoterpeut la Cabinet Individual de psihologie Moldovan Melania</li>
                 </ul>
                 <h3>Workshopuri facilitate/evenimente</h3>
                 <ul>
                   <li>31 Octombrie 2019- Speaker invitat, împreună cu psihoterapeut Paula Nuțaș la lansarea cărții „Sparge Tiparele: Cum să-ți recapeți libertatea de a fi tu însuți prin terapia schemelor”- Gitta Jacobs, Bookstory, Cluj-Napoca, Cluj.</li>
-                  <li>Mai 2019-Workshopuri facilitate în cadrul Seminarului Bridge for Mental Health, Măguri-Răcătău, Cluj.</li>
-                  <li>Aprilie 2019-Discuție la EBS radio despre Burnout împreună cu psiholog Bogdan Ovidiu Talpoș.</li>
-                  <li>Iulie 2018- Breaking the Bad Workshop, Organizația Minte Forte</li>
+                  <li>Mai 2019-Workshopuri facilitate în cadrul Seminarului ”Bridge for Mental Health”, Măguri-Răcătău, Cluj.</li>
+                  <li>Aprilie 2019-Invitat discuție la EBS radio pe tema ”Burnout” împreună cu psihoterapeut Bogdan Ovidiu Talpoș.</li>
+                  <li>Iulie 2018- ”Breaking the Bad” Workshop, Organizația Minte Forte, Cluj-Napoca.</li>
                 </ul>
               </div>
             </div>
