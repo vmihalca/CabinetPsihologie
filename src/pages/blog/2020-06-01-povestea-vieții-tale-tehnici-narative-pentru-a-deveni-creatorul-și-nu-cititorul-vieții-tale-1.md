@@ -1,15 +1,17 @@
 ---
 templateKey: blog-post
 title: >-
-  Povestea vieții tale- tehnici narative pentru a deveni creatorul și nu
+  Povestea vieții tale - tehnici narative pentru a deveni creatorul și nu
   cititorul vieții tale
 date: 2020-06-01T17:26:07.222Z
-description: Tehnici narative pentru a deveni creatorul și nu cititorul vieții tale
+description: .
 featuredpost: true
 featuredimage: /img/Art. 2.jpg
 tags:
   - Terapie Cluj-Napoca
 ---
+![](/img/Art. 2.jpg)
+
 Ești blocat în izolare sau ai luat decizia de rămâne în casă pentru a reduce pandemia? Cum îțiconstruiești narațiunea vieții în această perioadă? Ești agent activ sau ești victima schimbărilor exterioare? Poate răspunzi diferit la aceaste întrebări în funcție de persoana care te întreabă, starea ta de spirit, sau etapa izolării în care te afli.
 
 Terapia narativă ne spune că aceste întrebări sunt importante, căci o persoană poate lucra pe poveștile pe care aceasta le spune despre viața sa cu scopul de a crea niște schimbări pozitive. Poveștile pot fi ”unelte” în relațiile cu ceilalți, le folosim pentru a transmite mai departe informații, pentru a stabili o conexiune cu celălalt prin împărtășirea experiențelor, și e un mod de a ne organiza gândurile și sentimentele. Prin poveștile pe care le spunem despre noi reușim să creăm o structură coerentă în gândurile noastre, ne descoperim valorile și sensul acțiunilor, deci, în consecință, ne creem o identitate. Poveștile pe care (ni) le spunem despre noi ne modelează identitatea și, din păcate, adesea ne fixăm pe o problemă, sau o temă și ne construim întreaga identitate în jurul acesteia. Terapia narativă ne ajută să vedem aceste probleme ca fiind externe nouă, și dacă schimbăm modul în care ne povestim viața, schimbăm modul în care ne raportăm la problemele noastre.
@@ -44,8 +46,6 @@ Dacă ești rugat să îți relatezi viața cuiva străin, cum ar suna? Care tem
 
 Acest exercițiu te ajută să îți organizezi gândurile și credințele despre viața ta și să construiești o poveste coerentă care are sens pentru tine. Nu trebuie să intri în detalii sau să te focusezi pe anumite amintiri specifice ci să îți organizezi trecutul, care te-a modelat în persoana din prezent, dar care nu trebuie să îți determine viitorul.
 
-
-
 * **Tehnica de externalizare**
 
 Aș dori să te gândești la o problemă cu care te confrunți (de exemplu, nerespectarea unui program de lucru). Și acum aș dori să îl exprimi în două feluri diferite, prima dată ca parte din identitatea/caracterul tău (eu sunt dezordonat/ă) iar apoi sub forma unui comportament în care te angajezi (eu mă angajez în alte acțiuni care nu sunt trecute în program). Vezi vreo diferență? În care variantă simți că ești capabil/ă să faci o schimbare? Tu nu ești problema, ești creatorul propriei vieți, și îți scrii povestea pe parcurs. Bineînțeles că ai dificultăți cu diferite probleme, dar nu ești problema ta. Procesul de externalizare a problemelor ne ajută să le vedem ca parte din poveste, dar nu ca parte din identitatea noastră. Externalizarea ne ajută să vedem problemele mai obiectiv, și atunci când creem o distanță între noi și problemă, vedem că este posibilă schimbarea și că suntem în control și putem să ne vindecăm.
@@ -55,8 +55,6 @@ Această tehnică poate avea impact mare asupra identității noastre și încre
 * **Deconstrucția**
 
 Adesea ne putem simți compleșiți de problema pe care o avem, și spargerea acesteia în bucăți mai mici ne poate ajuta să extragem sensul ei și să înțelegem imaginea de ansamblu. Problema nu mai este una generalizată de-a lungul vieții noastre, ci devine specifică, și astfel putem înțelege baza problemei, devenind mai ușor de abordat. De exemplu, dacă spunem că nu reușim să facem nimic în viața asta, putem să ne oprim o secundă, să tragem aer în piept și să ne întrebăm exact la ce ne referim, în ce situații simțim aceste lucruri, etc. Astfel, putem afla că problema constă în faptul că nu ne descurcăm cu lucrurile practice în viața de zi cu zi, rădăcina problemei fiind lipsa unor abilități practice față de care putem construi un plan de dezvoltare personală. În acest proces descoperim valorile importante pentru noi.
-
-
 
 * **Rezultatul alternativ**
 
