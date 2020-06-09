@@ -1,14 +1,9 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
+templateKey: product-page
+title: Cabinet Psihologie Melania Moldovan
 image: /img/jumbotron.jpg
-heading: MelaniaMoldovan
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+heading: Melania Moldovan
+description: Cabinet Psihologie Melania Moldovan
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -38,27 +33,19 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Cabinet Psihologie Melania Moldovan
+  description: Cabinet Psihologie Melania Moldovan
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Cabinet Psihologie Melania Moldovan
+  description: Cabinet Psihologie Melania Moldovan
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Cabinet Psihologie Melania Moldovan
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Cabinet Psihologie Melania Moldovan
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Cabinet Psihologie Melania Moldovan
     image: /img/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
@@ -71,11 +58,8 @@ testimonials:
       stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  heading: Cabinet Psihologie Melania Moldovan
+  description: Cabinet Psihologie Melania Moldovan
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
@@ -99,3 +83,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
