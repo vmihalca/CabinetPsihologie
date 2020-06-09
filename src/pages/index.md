@@ -7,9 +7,14 @@ subheading: Cabinet de psihologie
 mainpitch:
   title: Bine ai venit pe pagina cabinetului meu!
   description: >
-    ”Trăiește-și viața în așa fel încât ai fi dispus să îți repeți aceeași viață pentru eternitate” -Irvin Yalom 
+    ”Trăiește-și viața în așa fel încât ai fi dispus să îți repeți aceeași viață
+    pentru eternitate” -Irvin Yalom 
 description: >-
-  Poate te-ai întrebat ce este mai exact psihoterapia. Psihoterapia este o modalitate de a ajuta oamenii care suferă de o varietate de dificultăți emoționale și mentale. Prin acest proces esti ajutat în a-ți elimina sau controla anumite simptome deranjante și îngrijorătoare, astfel încât să acționezi mai bine, să te vindeci și să își ridici calitatea vieții.
+  Poate te-ai întrebat ce este mai exact psihoterapia. Psihoterapia este o
+  modalitate de a ajuta oamenii care suferă de o varietate de dificultăți
+  emoționale și mentale. Prin acest proces esti ajutat în a-ți elimina sau
+  controla anumite simptome deranjante și îngrijorătoare, astfel încât să
+  acționezi mai bine, să te vindeci și să își ridici calitatea vieții.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -39,26 +44,19 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Cabinet Psihologie Melania Moldovan
+  description: Cabinet Psihologie Melania Moldovan
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Cabinet Psihologie Melania Moldovan
+  description: Cabinet Psihologie Melania Moldovan
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Cabinet Psihologie Melania Moldovan
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Cabinet Psihologie Melania Moldovan
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Cabinet Psihologie Melania Moldovan
     image: /img/products-grid1.jpg
 ---
+
