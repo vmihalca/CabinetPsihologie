@@ -70,7 +70,7 @@ const Footer = class extends React.Component {
                 <div className="conta-foot">
                     <h2>Info contact</h2>
                     <div className="line"></div>
-                    <div><strong>Telefon: </strong>0744649851</div>
+                    <div><strong>Telefon: </strong>0744 649 851</div>
                     <div><strong>Adresa: </strong>str. Decebal nr 2., apart 7, Cluj-Napoca</div>
                     <div><strong>E-mail: </strong><a href = "mailto: moldovanmelaniapsi@gmail.com">moldovanmelaniapsi@gmail.com</a></div>
                     <br/>

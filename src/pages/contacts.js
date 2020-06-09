@@ -26,7 +26,7 @@ const ContaPage = () => {
                                 <img src={mail} alt="mail" style={{ width: '40px'}} />
                             </div>
                             <div className="contact-detail">
-                                <div>0744649851</div>
+                                <div>0744 649 851</div>
                                 <div>str. Decebal nr 2., apart 7, Cluj-Napoca, Cluj</div>
                                 <div><a href = "mailto: moldovanmelaniapsi@gmail.com">moldovanmelaniapsi@gmail.com</a></div>
                                 <br/>
