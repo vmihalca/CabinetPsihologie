@@ -41,6 +41,8 @@ $dark-blue: #757794
   display: flex
   justify-content: center
   align-items: center
+  @media screen and ( max-width: 700px )
+    height: 200px    
 
 .banner-wrapper
   height: 400px  
@@ -138,7 +140,7 @@ nav.navbar
   position: relative
   bottom: 150px
   padding-left: 0.75rem
-  @media screen and ( max-width: 600px )
+  @media screen and ( max-width: 700px )
     bottom: 40px
     
 
@@ -169,6 +171,9 @@ nav.navbar
   a
     padding: 15px 30px
     font-size: 1.2rem
+    @media screen and ( max-width: 700px )
+      padding: 15px 15px
+      
   span
     color: $prime-red
 
@@ -178,7 +183,7 @@ footer.footer
   background: -webkit-linear-gradient(to bottom, #ffffff, #c4c5dc, #A594F9)
   background: linear-gradient(to bottom, #ffffff, #c4c5dc, #A594F9)
   .menu
-    @media screen and ( max-width: 600px )
+    @media screen and ( max-width: 700px )
       display: none
       
 .conta-foot
@@ -215,6 +220,9 @@ footer.footer
     width: 100%
     background: url('../img/home-jumbotron-blur.jpg') no-repeat fixed
     background-size: 100%
+    @media screen and ( max-width: 700px )
+      height: 170px
+      
 
 .about-title
   position: absolute
@@ -222,7 +230,7 @@ footer.footer
   left: 11%
   color: white
   width: 300px
-  @media screen and ( max-width: 600px )
+  @media screen and ( max-width: 700px )
     top: 180px
     
   h2
@@ -235,10 +243,18 @@ footer.footer
   box-shadow: 0px 0px 11px 1px rgba(0, 0, 0, 0.2)
   float: right
   top: -315px
-  margin-left: 25px;
+  margin-left: 25px
+  @media screen and ( max-width: 700px )
+    width: 100%
+    margin-bottom: 20px
+  img
+    width: 100%!important
   p 
     padding: 20px
     font-size: 1.2rem
+    @media screen and ( max-width: 700px )
+      padding: 5px
+      font-size: 1rem
 
 .about-column
   position: relative
@@ -260,7 +276,8 @@ footer.footer
     height: 500px
     width: 100%
     background: url('../img/colton-duke.jpg') no-repeat fixed
-    background-size: 100%
+    @media screen and ( min-width: 1300px )
+      background-size: 100%
     @media screen and ( max-width: 1220px )
       height: 300px
       
@@ -316,9 +333,15 @@ footer.footer
     font-size: 1.6rem
     font-weight: bold
     margin-top: 80px
+    @media screen and ( max-width: 700px )
+      font-size: 1.4rem
+      padding: 5px
+      
   h3
     font-size: 1.2rem
     font-weight: bold
+    @media screen and ( max-width: 700px )
+      padding: 5px
   p 
     padding: 0 20px
     text-align: justify
@@ -338,6 +361,8 @@ footer.footer
     margin: 15px
 
 // blog roll
+.blog-post
+  font-size: 1.4rem
 .blog-list-item.is-featured
   background-color: #d6400033
 .blog-list-item header
@@ -356,6 +381,9 @@ footer.footer
     width: 100%
     background: url('../img/antoine-barres.jpg') no-repeat fixed
     background-size: 100%
+    @media screen and ( max-width: 700px )
+      height: 200px
+      
 
 .conta-title
   position: relative
@@ -378,7 +406,7 @@ footer.footer
   border-radius: 6px
   box-shadow: 0px 0px 11px 1px rgba(0,0,0,0.45)
   margin-bottom: 100px
-  @media screen and ( max-width: 600px )
+  @media screen and ( max-width: 700px )
     display: block!important
     height: 450px
     
@@ -387,7 +415,7 @@ footer.footer
     left: 100px
     bottom: 25px
     color: #333
-    @media screen and ( max-width: 600px )
+    @media screen and ( max-width: 700px )
       position: static
   .line
     height: 2px
@@ -399,7 +427,7 @@ footer.footer
     font-size: 1.6rem
     font-weight: bold
     margin-top: 25px
-    @media screen and ( max-width: 600px )
+    @media screen and ( max-width: 700px )
       padding-left: 3px
   .contact-icon
     display: flex
@@ -408,7 +436,7 @@ footer.footer
     align-items: center
     background-color: #697ccf
     width: 100px
-    @media screen and ( max-width: 600px )
+    @media screen and ( max-width: 700px )
       width: 50px
       padding-top: 30px
       padding-left: 3px
@@ -421,7 +449,7 @@ footer.footer
     justify-content: center
     a
       color: #333
-    @media screen and ( max-width: 600px )
+    @media screen and ( max-width: 700px )
       display: inline-block
     div
       font-size: 1.2rem
@@ -429,7 +457,7 @@ footer.footer
       line-height: 80px
       padding-left: 30px
       color: #333
-      @media screen and ( max-width: 600px )
+      @media screen and ( max-width: 700px )
         font-size: .8rem
 
 @import "~bulma"

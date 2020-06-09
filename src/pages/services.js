@@ -32,7 +32,7 @@ const ServicesPage = () => {
                                 <h2>Psihoterapie individuală</h2>
                                 <div className="line"></div>
                                 <h3>Ce presupune?</h3>
-                                <p className="presup">Psihoterpia individuală presupune întâlniri la care vei participa doar tu și psihoterapeutul, într-un spațiu plăcut și sigur. Tot ceea ce se discută rămâne confidential. Timpul unei întâlniri este de 1 oră, însă putem hotărî împreună întâlniri de o durată mai lungă.</p>
+                                <p className="presup">Psihoterapia individuală presupune întâlniri la care vei participa doar tu și psihoterapeutul, într-un spațiu plăcut și sigur. Tot ceea ce se discută rămâne confidential. Timpul unei întâlniri este de 1 oră, însă putem hotărî împreună întâlniri de o durată mai lungă.</p>
                                 <br/>
                                 <h3>Ce se va întâmpla?</h3>
                                 <p>În întâlnirile noastre vom discuta ceea ce te apasă, vom explora emoțiile tale, tiparele de comportamente în care te simți prizonier și vom încerca împreună să găsim soluții pentru ceea ce te supără. Pentru a atinge aceste lucruri, vom discuta și amintirile din trecut, experiențe care sunt relevante pentru a înțelege problema cu care te confrunți în prezent. Scopul este de a-ți reda resursele pierdute și de a învăța să devii propriul consilier. Amândoi suntem implicați activ în acest proces de psihoterapie.</p>

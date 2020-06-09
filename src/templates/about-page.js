@@ -15,7 +15,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
         <h2>Mă bucur să ne cunoaștem!</h2>
       </div>
       <div className="container">
-        <div className="columns">
+        <div>
           <div className="column is-10 is-offset-1 about-column">
             <div className="section">
               <div className="about-header">
