@@ -70,8 +70,8 @@ export const IndexPageTemplate = ({
                 <div className="home-card-wrapp">
                   <div className="home-card">
                   <img src={hcard1} alt="Terapie individuala" style={{ width: '220px', height:'167px' }} />
-                  <h3>Terapie individuala</h3>
-                  <p>Psihoterpia individuală presupune întâlniri la care vei participa doar tu și psihoterapeutul, într-un spațiu plăcut și sigur. Tot ceea ce se discută rămâne confidential.</p>
+                  <h3>Terapie individuală</h3>
+                  <p>Psihoterapia individuală presupune întâlniri la care vei participa doar tu și psihoterapeutul, într-un spațiu plăcut și sigur. Tot ceea ce se discută rămâne confidential.</p>
                   <Link className="btn" to="/services/#psih-indiv">
                     Vezi mai mult
                   </Link>
